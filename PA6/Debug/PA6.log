@@ -1,0 +1,8 @@
+﻿  comLogic.c
+  gameLogic.c
+  main.c
+C:\Users\BobbyT\Documents\WSU\Sophmore year\CPTS 121\Programs\PA6\PA6\gameLogic.c(554,12): warning C4013:  'com_fire' undefined; assuming extern returning int
+  Generating Code...
+C:\Users\BobbyT\Documents\WSU\Sophmore year\CPTS 121\Programs\PA6\PA6\main.c(33,18): warning C4244:  'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\BobbyT\Documents\WSU\Sophmore year\CPTS 121\Programs\PA6\PA6\comLogic.c(137): warning C4715:  'com_missle': not all control paths return a value
+  PA6.vcxproj -> C:\Users\BobbyT\Documents\WSU\Sophmore year\CPTS 121\Programs\PA6\Debug\PA6.exe
