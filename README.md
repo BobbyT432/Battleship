@@ -8,5 +8,5 @@ Features
 # SCREENSHOTS
 
 ![](images/Capture.JPG)
-![](images/capture2.JPG)
+![](images/Capture2.JPG)
 
