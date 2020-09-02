@@ -7,6 +7,6 @@ Features
 
 # SCREENSHOTS
 
-![](images/Capture.jpg)
-![](images/capture2.jpg)
+![](images/Capture.JPG)
+![](images/capture2.JPG)
 
